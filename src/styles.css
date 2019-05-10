@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.item-name {
+  display: inline-block;
+  font-weight: bold;
+  min-width: 90px;
+}
